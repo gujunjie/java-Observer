@@ -1,5 +1,5 @@
 package project22;
 
 public interface Observer {
-      void update(String data);//接受通知后做出反应
+      void update(String data);//鎺ュ彈閫氱煡鍋氬嚭鍙嶅簲
 }
