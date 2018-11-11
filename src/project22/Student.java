@@ -10,7 +10,7 @@ public class Student implements Observer{
 	
 	@Override
 	public void update(String data) {
-		System.out.println(data);//×ö³öÅĞ¶Ï
+		System.out.println(data);//åšå‡ºååº”
 		
 	}
 
