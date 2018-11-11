@@ -12,7 +12,7 @@ public class Text {
 		
 		teacher.removeObserver(student1);
 		
-		teacher.noifyObserver("Ã÷Ìì½»×÷Òµ");
+		teacher.noifyObserver("æ˜Žå¤©äº¤ä½œä¸š");
 
 	}
 
